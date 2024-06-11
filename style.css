@@ -114,8 +114,7 @@ h2 {
   align-items: center;
 }
 .niveles:hover {
-  background: linear-gradient(to right, #6e6e6e, #baff3983, #6e6e6e);
-  background: linear-gradient(to bottom, #6e6e6e, #baff3983);
+  background: linear-gradient(to bottom, #6e6e6e, #baff393f);
 }
 .niveles p {
   width: 664px;
